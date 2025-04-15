@@ -21,5 +21,4 @@ This is a basic Password Manager built using Python and Tkinter. It allows users
 - Tkinter
 - pyperclip
 
-#![Password Manager GUI Preview](![Screenshot 2025-04-15 221907]
-(https://github.com/user-attachments/assets/d0b29b36-86b7-4609-9faa-b9763cfbfb48)
+#![Password Manager GUI Preview](![Screenshot 2025-04-15 221907](https://github.com/user-attachments/assets/d0b29b36-86b7-4609-9faa-b9763cfbfb48)
